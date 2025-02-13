@@ -18,7 +18,6 @@ createRoot(document.getElementById('root')!).render(
     <StrictMode>
         <Provider store={store}>
             <ChakraProvider theme={theme}>
-
                 <App/>
             </ChakraProvider>
         </Provider>

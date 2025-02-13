@@ -1,0 +1,216 @@
+{
+  "coupons": [
+    {
+      "type": "Single",
+      "details": "Away win",
+      "odds": 1.43,
+      "stake": 0.1,
+      "advice": "Liverpool a une forte probabilité de gagner ce match à l'extérieur.",
+      "events": [
+        {
+          "home_team": "Everton",
+          "away_team": "Liverpool",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 1.43
+        }
+      ]
+    },
+    {
+      "type": "Single",
+      "details": "Away win",
+      "odds": 1.84,
+      "stake": 0.08,
+      "advice": "AC Milan est en bonne forme et a une probabilité solide de gagner.",
+      "events": [
+        {
+          "home_team": "Feyenoord",
+          "away_team": "AC Milan",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 1.84
+        }
+      ]
+    },
+    {
+      "type": "Single",
+      "details": "Away win",
+      "odds": 1.36,
+      "stake": 0.11,
+      "advice": "Bayern München est le grand favori et devrait gagner confortablement.",
+      "events": [
+        {
+          "home_team": "Celtic",
+          "away_team": "Bayern München",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 1.36
+        }
+      ]
+    },
+    {
+      "type": "Single",
+      "details": "Over 2.5 goals",
+      "odds": 1.56,
+      "stake": 0.09,
+      "advice": "Les deux équipes ont une forte tendance à marquer, rendant ce pari très probable.",
+      "events": [
+        {
+          "home_team": "Monaco",
+          "away_team": "Benfica",
+          "type": "Goals Over/Under",
+          "details": "Over 2.5 goals",
+          "odds": 1.56
+        }
+      ]
+    },
+    {
+      "type": "Single",
+      "details": "Both Teams Score",
+      "odds": 1.47,
+      "stake": 0.09,
+      "advice": "Les deux équipes marquent régulièrement, ce qui rend ce pari judicieux.",
+      "events": [
+        {
+          "home_team": "Monaco",
+          "away_team": "Benfica",
+          "type": "Both Teams Score",
+          "details": "Yes",
+          "odds": 1.47
+        }
+      ]
+    },
+    {
+      "type": "Single",
+      "details": "Away win",
+      "odds": 2.28,
+      "stake": 0.06,
+      "advice": "Atalanta a une forte attaque et une probabilité plus élevée de gagner.",
+      "events": [
+        {
+          "home_team": "Club Brugge KV",
+          "away_team": "Atalanta",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 2.28
+        }
+      ]
+    },
+    {
+      "type": "Combination",
+      "details": "Liverpool win + Over 2.5 goals",
+      "odds": 2.4,
+      "stake": 0.07,
+      "advice": "La forme de Liverpool et le potentiel de buts rendent ce combiné attractif.",
+      "events": [
+        {
+          "home_team": "Everton",
+          "away_team": "Liverpool",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 1.43
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Liverpool",
+          "type": "Goals Over/Under",
+          "details": "Over 2.5 goals",
+          "odds": 1.68
+        }
+      ]
+    },
+    {
+      "type": "Combination",
+      "details": "AC Milan win + Over 2.5 goals",
+      "odds": 3.02,
+      "stake": 0.06,
+      "advice": "La forme de Milan et la probabilité d'un match à score élevé rendent ce combiné intéressant.",
+      "events": [
+        {
+          "home_team": "Feyenoord",
+          "away_team": "AC Milan",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 1.84
+        },
+        {
+          "home_team": "Feyenoord",
+          "away_team": "AC Milan",
+          "type": "Goals Over/Under",
+          "details": "Over 2.5 goals",
+          "odds": 1.64
+        }
+      ]
+    },
+    {
+      "type": "Combination",
+      "details": "Bayern München win + Over 2.5 goals",
+      "odds": 1.96,
+      "stake": 0.08,
+      "advice": "Bayern est susceptible de gagner avec un score élevé.",
+      "events": [
+        {
+          "home_team": "Celtic",
+          "away_team": "Bayern München",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 1.36
+        },
+        {
+          "home_team": "Celtic",
+          "away_team": "Bayern München",
+          "type": "Goals Over/Under",
+          "details": "Over 2.5 goals",
+          "odds": 1.44
+        }
+      ]
+    },
+    {
+      "type": "Combination",
+      "details": "Atalanta win + Over 2.5 goals",
+      "odds": 4.56,
+      "stake": 0.05,
+      "advice": "L'attaque d'Atalanta et la probabilité d'un match avec beaucoup de buts rendent ce combiné intéressant.",
+      "events": [
+        {
+          "home_team": "Club Brugge KV",
+          "away_team": "Atalanta",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 2.28
+        },
+        {
+          "home_team": "Club Brugge KV",
+          "away_team": "Atalanta",
+          "type": "Goals Over/Under",
+          "details": "Over 2.5 goals",
+          "odds": 2
+        }
+      ]
+    },
+    {
+      "type": "Combination",
+      "details": "Benfica win + Over 2.5 goals",
+      "odds": 4.59,
+      "stake": 0.04,
+      "advice": "Potentiel de victoire de Benfica combiné avec une forte probabilité de plus de 2.5 buts.",
+      "events": [
+        {
+          "home_team": "Monaco",
+          "away_team": "Benfica",
+          "type": "Match Winner",
+          "details": "Away win",
+          "odds": 2.95
+        },
+        {
+          "home_team": "Monaco",
+          "away_team": "Benfica",
+          "type": "Goals Over/Under",
+          "details": "Over 2.5 goals",
+          "odds": 1.56
+        }
+      ]
+    }
+  ],
+  "global_advice": "Les paris d'aujourd'hui sont axés sur des victoires à l'extérieur pour les favoris (Liverpool, AC Milan, Bayern München) et des matchs avec un nombre élevé de buts. Les combinés offrent des opportunités de gains plus élevés, mais avec un risque accru. Les paris simples sur les victoires des favoris et sur les options de buts (Over 2.5, Both Teams Score) offrent un bon équilibre entre risque et rendement. La répartition de la mise est prudente, avec une plus grande partie allouée aux paris simples et une portion plus petite aux combinés plus risqués."
+}
